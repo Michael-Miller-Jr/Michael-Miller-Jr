@@ -7,7 +7,7 @@
 </p>
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 15px; margin-bottom: 10px;">
-  <h1 style="margin: 0;"><img width="260" height="274" alt="looking" src="https://github.com/user-attachments/assets/f52ebd3d-2a65-4bf0-b93d-cb49bc63415e" />Hey Yoooooo! I'm Michael Miller, <span style="font-size: 0.6em; font-weight: normal;">aka TheLastSuperman <img src="https://github.com/user-attachments/assets/f17b0ccd-8c1c-4100-86de-090be10a4fe9" width="48" height="48" alt="Supes" /></span></h1>
+  <h1 style="margin: 0;">Hey Yoooooo! I'm Michael Miller, <span style="font-size: 0.6em; font-weight: normal;">aka TheLastSuperman <img src="https://github.com/user-attachments/assets/f17b0ccd-8c1c-4100-86de-090be10a4fe9" width="48" height="48" alt="Supes" /></span></h1>
 </div>
 
 ### 🚀 WordPress Developer | Support Specialist | Clever Creator!
@@ -27,6 +27,10 @@ I love creating tools that solve actual problems. Whether I'm writing a custom p
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</div>
+
+<div align="center">
+  <img width="160" height="174" alt="looking" src="https://github.com/user-attachments/assets/f52ebd3d-2a65-4bf0-b93d-cb49bc63415e" />
 </div>
 
 ---
