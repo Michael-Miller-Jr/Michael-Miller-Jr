@@ -39,20 +39,19 @@ After that, I jumped into the world of vBulletin and various forum softwares, wh
 
 <br>
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; background-color: transparent;">
-<tr style="border: none; background-color: transparent;">
-<td align="center" valign="middle" style="border: none; padding-right: 20px; width: 160px; white-space: nowrap;">
-<img src="https://github.com/user-attachments/assets/f52ebd3d-2a65-4bf0-b93d-cb49bc63415e" width="160" height="174" alt="looking" style="border-radius: 8px;" />
-</td>
-<td align="left" valign="middle" style="border: none;">
-I'm also a massive fan of Dad Jokes...
-<br><br>
-<blockquote>
-<i>"A SQL query walks into a bar, walks up to two tables and asks... 'Can I join you?'"</i>
-</blockquote>
-</td>
-</tr>
-</table>
+<div>
+  <img src="https://github.com/user-attachments/assets/f52ebd3d-2a65-4bf0-b93d-cb49bc63415e" width="160" height="174" align="left" style="margin-right: 20px; margin-bottom: 10px; border-radius: 8px;" alt="looking" />
+  
+  I'm also a massive fan of Dad Jokes. Honestly, I'm a sucker for the ones that are so clever and so terrible at the same time. 
+  <br><br>
+  If you've ever worked with a database, you know exactly why this is both the best and worst joke you'll hear today:
+  <br><br>
+  <blockquote>
+    <i>"A SQL query walks into a bar, walks up to two tables and asks... 'Can I join you?'"</i>
+  </blockquote>
+</div>
+
+<br clear="all">
 
 ---
 
