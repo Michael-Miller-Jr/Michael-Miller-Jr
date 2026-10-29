@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/d0d801ae-262c-401c-92f7-d940d82ce391">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/9532f063-2b27-4c3a-bdf7-15a0f2a2ddc5">
-    <img alt="Michael Miller - TheLastSuperman" src="https://github.com/user-attachments/assets/d0d801ae-262c-401c-92f7-d940d82ce391" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/3e398d09-4982-469f-bc41-34ba5b0da0ac">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/5cf2e025-2b3f-48db-9e0c-7cd026f89faf">
+    <img alt="Michael Miller - TheLastSuperman" src="https://github.com/user-attachments/assets/3e398d09-4982-469f-bc41-34ba5b0da0ac" width="100%">
   </picture>
 </p>
 
