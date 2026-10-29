@@ -35,6 +35,14 @@ I love creating tools that solve actual problems. Whether I'm writing a custom p
   <img src="https://img.shields.io/badge/Workflow%20Optimization-Process-%23007ACC?style=for-the-badge&logo=githubactions&logoColor=white" alt="Workflow Optimization" />
   <img src="https://img.shields.io/badge/Problem%20Solving-Critical%20Thinker-%23E91E63?style=for-the-badge&logo=superuser&logoColor=white" alt="Problem Solving" />
   <img src="https://img.shields.io/badge/Quality%20Control-Implementation-%23607D8B?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Quality Control" />
+  <img src="https://img.shields.io/badge/SEO-Search%20Optimization-%234285F4?style=for-the-badge&logo=googlesearchconsole&logoColor=white" alt="SEO" />
+  <img src="https://img.shields.io/badge/vBulletin-18%20Endorsements-%23117EAB?style=for-the-badge&logo=vbulletin&logoColor=white" alt="vBulletin" />
+  <img src="https://img.shields.io/badge/CAD-Computer%20Aided%20Design-%23F05032?style=for-the-badge&logo=autodesk&logoColor=white" alt="CAD" />
+  <img src="https://img.shields.io/badge/Google%20Analytics-Web%20Analytics-%23E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics" />
+  <img src="https://img.shields.io/badge/Web%20Hosting-Management-%23607D8B?style=for-the-badge&logo=serverfault&logoColor=white" alt="Web Hosting" />
+  <img src="https://img.shields.io/badge/Community%20Management-Engagement-%23FF5722?style=for-the-badge&logo=discourse&logoColor=white" alt="Community Management" />
+  <img src="https://img.shields.io/badge/E--commerce-Web%20Sales-%239C27B0?style=for-the-badge&logo=shopify&logoColor=white" alt="E-commerce" />
+  <img src="https://img.shields.io/badge/Salesforce-CRM-%2300A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
 </div>
 
 ---
