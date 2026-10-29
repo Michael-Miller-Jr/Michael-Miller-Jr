@@ -63,9 +63,7 @@ After that, I jumped into the world of vBulletin and various forum softwares, wh
 <td align="left" valign="middle" style="border: none;">
 I'm also a massive fan of Dad Jokes. Honestly, I'm a sucker for the ones that are so clever and so terrible at the same time... 
 <br><br>
-<blockquote>
-<i>"A SQL query walks into a bar, walks up to two tables and asks... 'Can I join you?'"</i>
-</blockquote>
+> *"A SQL query walks into a bar, walks up to two tables and asks... 'Can I join you?'"*
 <br>
 If you've ever worked with a database, you know exactly why that was both the best and worst joke you heard today.
 </td>
