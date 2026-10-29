@@ -1,3 +1,11 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/d0d801ae-262c-401c-92f7-d940d82ce391">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/9532f063-2b27-4c3a-bdf7-15a0f2a2ddc5">
+    <img alt="Michael Miller - TheLastSuperman" src="https://github.com/user-attachments/assets/d0d801ae-262c-401c-92f7-d940d82ce391" width="100%">
+  </picture>
+</p>
+
 # 👋 Hey Yooo! I'm Michael Miller aka TheLastSuperman <a href="https://www.linkedin.com/in/michael-r-miller-jr/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><br>
 
 ### 🚀 WordPress Developer | Support Specialist | Clever Creator!
@@ -106,7 +114,7 @@ I rarely play video games these days, but when I do, I love finding unique chall
 </table>
 
 <div align="center">
-  <img src="" width="100%" style="border-radius: 10px; margin-top: 15px;" alt="Call of Duty 10K Cleaver Kills" />
+  <img src="https://github.com/user-attachments/assets/ed5408d7-1db9-44d5-91e4-124f75b2007d" width="100%" style="border-radius: 10px; margin-top: 15px;" alt="Call of Duty 10K Cleaver Kills" />
 </div>
 
 <br>
