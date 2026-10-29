@@ -1,16 +1,131 @@
-## Hi there 👋
+# 👋 Hey Yooo! I'm Michael Miller aka TheLastSuperman <a href="https://www.linkedin.com/in/michael-r-miller-jr/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><br>
 
-<!--
-**Michael-Miller-Jr/Michael-Miller-Jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 WordPress Developer | Support Specialist | Clever Creator!
 
-Here are some ideas to get you started:
+> *"I love all things Superman, plain and simple! What else is there to say about me? At night time though – 'I'm Batman' LOL!"* 🦇
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 My Toolbox
+
+I love creating tools that solve actual problems. Whether I'm writing a custom plugin, squashing a bug, or diving into a new framework, I'm all about building clean, reliable solutions that get the job done right.
+
+<div align="center">
+  <img src="https://img.shields.io/badge/WordPress-%23117EAB.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</div>
+
+---
+
+### 🦸‍♂️ The Origin Story (WordPress Edition)
+
+I got my start as a tinkerer, writing cimpack macros while doing CAD work just for the sheer joy of automating everyday tasks. Back then, every script was a new puzzle to solve – and I loved every minute of it! 
+
+After that, I jumped into the world of vBulletin and various forum softwares, where I discovered the thrill of building online communities and crafting tools that kept conversations flowing. It wasn't just about the code; it was about making things work better for real people. I then started working with **WordPress** and have enjoyed seeing it progress over the years!
+
+---
+
+### 🧩 Browser Extensions & WordPress Plugins
+
+Beyond standard development, I love building tools that solve everyday headaches and make the web a better place. I'm well-versed in **Core Web Vitals** and overall web performance, ensuring everything I build is fast, accessible, and optimized for a great user experience.
+
+I've developed several **official Chrome browser extensions** available on the Web Store, along with several other custom tools that are exclusive to my GitHub. 
+
+On the WordPress side, I've built both official and private/custom plugins tailored to specific needs - including a **scheduled content block** for Gutenberg, a **custom calendar** solution, and various other tools designed to streamline workflows and enhance site functionality.
+
+---
+
+### 🎨 Beyond the Code: The Custom Action Figure Lab
+
+When I'm not pushing commits or troubleshooting code, I'm crafting works of art. Yes, you read that right! I take existing action figures and transform them into custom masterpieces. 
+
+>  *Fun fact: It all started when my son was younger and his dog chewed up one of his favorite figures. It was a $9.96 Christmas gift, but the only replacements online were going for $79.99 on eBay! The prices were astronomical, so I said, "Nope, I'll make you one before we spend that!" ...and the rest is, as they say, history!*
+
+I still love bringing these custom figures to life and sharing the creation process! I don't crank them out quite as fast as I used to now that my son is all grown up, but the creative spark is still going strong.
+
+<br>
+
+<details>
+<summary><b>🖼️ Click here to open the Custom Action Figure Gallery! 🖼️</b></summary>
+<br>
+<div align="center">
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="margin-bottom: 15px;">
+<tr>
+<td align="center" width="50%" style="padding: 5px;">
+<a href="https://github.com/user-attachments/assets/a6affa1e-31ed-4ea2-9940-9389056b4c91" target="_blank"><img src="https://github.com/user-attachments/assets/a6affa1e-31ed-4ea2-9940-9389056b4c91" width="100%" style="border: 1px solid #30363d; aspect-ratio: 16 / 9; object-fit: cover;" alt="Superman Group Photo" /></a>
+<br><b>Superman Group Photo</b>
+</td>
+<td align="center" width="50%" style="padding: 5px;">
+<a href="https://github.com/user-attachments/assets/25f6ba50-2f9a-493f-b9da-81a5bc88a503" target="_blank"><img src="https://github.com/user-attachments/assets/25f6ba50-2f9a-493f-b9da-81a5bc88a503" width="100%" style="border: 1px solid #30363d; aspect-ratio: 16 / 9; object-fit: cover;" alt="Doomsday" /></a>
+<br><b>Doomsday</b>
+</td>
+</tr>
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" width="25%" style="padding: 5px;">
+<a href="https://github.com/user-attachments/assets/91252144-a62b-458d-8edd-2aaa10e8ef8a" target="_blank"><img src="https://github.com/user-attachments/assets/91252144-a62b-458d-8edd-2aaa10e8ef8a" width="100%" style="border: 1px solid #30363d; aspect-ratio: 3 / 4; object-fit: cover;" alt="Cyborg Ultraman" /></a>
+<br><b>Cyborg Ultraman</b>
+</td>
+<td align="center" width="25%" style="padding: 5px;">
+<a href="https://github.com/user-attachments/assets/52dfca2a-76ec-41ae-ad0f-88fa4a883908" target="_blank"><img src="https://github.com/user-attachments/assets/52dfca2a-76ec-41ae-ad0f-88fa4a883908" width="100%" style="border: 1px solid #30363d; aspect-ratio: 3 / 4; object-fit: cover;" alt="Cyborg Superman" /></a>
+<br><b>Cyborg Superman</b>
+</td>
+<td align="center" width="25%" style="padding: 5px;">
+<a href="https://github.com/user-attachments/assets/33b70a2f-85a0-48e4-bbdb-eb8b5a074630" target="_blank"><img src="https://github.com/user-attachments/assets/33b70a2f-85a0-48e4-bbdb-eb8b5a074630" width="100%" style="border: 1px solid #30363d; aspect-ratio: 3 / 4; object-fit: cover;" alt="Absolute Zero" /></a>
+<br><b>Absolute Zero</b>
+</td>
+<td align="center" width="25%" style="padding: 5px;">
+<a href="https://github.com/user-attachments/assets/a99c2881-fbbf-41f6-8585-502361ebfaad" target="_blank"><img src="https://github.com/user-attachments/assets/a99c2881-fbbf-41f6-8585-502361ebfaad" width="100%" style="border: 1px solid #30363d; aspect-ratio: 3 / 4; object-fit: cover;" alt="Cyborg Superman" /></a>
+<br><b>Cyborg Superman</b>
+</td>
+</tr>
+</table>
+
+</div>
+</details>
+
+---
+
+### 🎮 Gaming & Creation
+
+<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; background-color: transparent;">
+<tr style="border: none; background-color: transparent;">
+<td align="center" valign="middle" width="80px" style="padding-right: 10px; border: none;">
+<img src="https://github.com/user-attachments/assets/f178f7a5-67e2-4720-a135-67800a9c6074" width="64" height="64" alt="10K Cleaver Kills" style="border-radius: 8px;" />
+</td>
+<td align="left" valign="middle" style="border: none;">
+I rarely play video games these days, but when I do, I love finding unique challenges. For example, in Call of Duty, I was the first to achieve over <b>10,000 Cleaver Kills!</b>
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/421af84b-c74b-4666-9982-57c9abd5cd66" width="100%" style="border-radius: 10px; margin-top: 15px;" alt="Call of Duty 10K Cleaver Kills" />
+</div>
+
+<br>
+
+However, these days I find myself enjoying the art of coding and watching a project come alive far more than playing any video game. There's nothing quite like the thrill of building something from scratch.
+
+---
+
+<div align="center">
+
+### 📊 Let's Connect!
+
+<a href="https://github.com/Michael-Miller-Jr">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github" alt="Follow on GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/michael-r-miller-jr/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" />
+</a>
+
+*"I Git It" - Let's build something awesome together!* 🤝
+
+</div>
