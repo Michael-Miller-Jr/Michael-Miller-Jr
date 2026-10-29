@@ -39,21 +39,24 @@ After that, I jumped into the world of vBulletin and various forum softwares, wh
 
 <br>
 
-<div>
-  <img src="https://github.com/user-attachments/assets/8a0eb26e-e333-445f-9bad-27803126afa6" width="189" height="174" align="left" style="margin-right: 25px; margin-bottom: 10px; border-radius: 8px; background-color: transparent;" alt="looking" />
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; background-color: transparent;">
+<tr style="border: none; background-color: transparent;">
+<td align="center" valign="middle" width="200px" style="padding-right: 20px; border: none;">
+<img src="https://github.com/user-attachments/assets/8a0eb26e-e333-445f-9bad-27803126afa6" width="189" height="174" style="border-radius: 8px;" alt="looking" />
+</td>
+<td align="left" valign="middle" style="border: none;">
+I'm also a massive fan of Dad Jokes. Honestly, I'm a sucker for the ones that are so clever and so terrible at the same time. 
+<br><br>
+If you've ever worked with a database, you know exactly why this is both the best and worst joke you'll hear today:
+<br><br>
+<blockquote>
+<i>"A SQL query walks into a bar, walks up to two tables and asks... 'Can I join you?'"</i>
+</blockquote>
+</td>
+</tr>
+</table>
 
-  <div>
-    I'm also a massive fan of Dad Jokes. Honestly, I'm a sucker for the ones that are so clever and so terrible at the same time. 
-    <br><br>
-    If you've ever worked with a database, you know exactly why this is both the best and worst joke you'll hear today:
-    <br><br>
-    <blockquote>
-      <i>"A SQL query walks into a bar, walks up to two tables and asks... 'Can I join you?'"</i>
-    </blockquote>
-  </div>
-</div>
-
-<br clear="all">
+<br>
 
 ---
 
