@@ -56,11 +56,11 @@ I still love bringing these custom figures to life and sharing the creation proc
 <table border="0" cellpadding="0" cellspacing="0" width="100%" style="margin-bottom: 15px;">
 <tr>
 <td align="center" width="50%" style="padding: 5px;">
-<a href="https://github.com/user-attachments/assets/a6affa1e-31ed-4ea2-9940-9389056b4c91" target="_blank"><img src="https://github.com/user-attachments/assets/a6affa1e-31ed-4ea2-9940-9389056b4c91" width="100%" style="border: 1px solid #30363d; aspect-ratio: 16 / 9; object-fit: cover;" alt="Superman Group Photo" /></a>
+<img src="https://github.com/user-attachments/assets/5caea58d-5f09-4030-a23d-142be8b19633" width="100%" style="border: 1px solid #30363d; aspect-ratio: 16 / 9; object-fit: cover;" alt="Superman Group Photo" />
 <br><b>Superman Group Photo</b>
 </td>
 <td align="center" width="50%" style="padding: 5px;">
-<a href="https://github.com/user-attachments/assets/25f6ba50-2f9a-493f-b9da-81a5bc88a503" target="_blank"><img src="https://github.com/user-attachments/assets/25f6ba50-2f9a-493f-b9da-81a5bc88a503" width="100%" style="border: 1px solid #30363d; aspect-ratio: 16 / 9; object-fit: cover;" alt="Doomsday" /></a>
+<img src="https://github.com/user-attachments/assets/04d07cf5-71a4-4e09-b975-3a233feee632" width="100%" style="border: 1px solid #30363d; aspect-ratio: 16 / 9; object-fit: cover;" alt="Doomsday" />
 <br><b>Doomsday</b>
 </td>
 </tr>
@@ -69,19 +69,19 @@ I still love bringing these custom figures to life and sharing the creation proc
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
 <td align="center" width="25%" style="padding: 5px;">
-<a href="https://github.com/user-attachments/assets/91252144-a62b-458d-8edd-2aaa10e8ef8a" target="_blank"><img src="https://github.com/user-attachments/assets/91252144-a62b-458d-8edd-2aaa10e8ef8a" width="100%" style="border: 1px solid #30363d; aspect-ratio: 3 / 4; object-fit: cover;" alt="Cyborg Ultraman" /></a>
+<img src="https://github.com/user-attachments/assets/ce2f8730-0768-4ca2-944c-bee46093f849" width="100%" style="border: 1px solid #30363d; aspect-ratio: 3 / 4; object-fit: cover;" alt="Cyborg Ultraman" />
 <br><b>Cyborg Ultraman</b>
 </td>
 <td align="center" width="25%" style="padding: 5px;">
-<a href="https://github.com/user-attachments/assets/52dfca2a-76ec-41ae-ad0f-88fa4a883908" target="_blank"><img src="https://github.com/user-attachments/assets/52dfca2a-76ec-41ae-ad0f-88fa4a883908" width="100%" style="border: 1px solid #30363d; aspect-ratio: 3 / 4; object-fit: cover;" alt="Cyborg Superman" /></a>
+<img src="https://github.com/user-attachments/assets/52dfca2a-76ec-41ae-ad0f-88fa4a883908" width="100%" style="border: 1px solid #30363d; aspect-ratio: 3 / 4; object-fit: cover;" alt="Cyborg Superman" />
 <br><b>Cyborg Superman</b>
 </td>
 <td align="center" width="25%" style="padding: 5px;">
-<a href="https://github.com/user-attachments/assets/33b70a2f-85a0-48e4-bbdb-eb8b5a074630" target="_blank"><img src="https://github.com/user-attachments/assets/33b70a2f-85a0-48e4-bbdb-eb8b5a074630" width="100%" style="border: 1px solid #30363d; aspect-ratio: 3 / 4; object-fit: cover;" alt="Absolute Zero" /></a>
+<img src="https://github.com/user-attachments/assets/33b70a2f-85a0-48e4-bbdb-eb8b5a074630" width="100%" style="border: 1px solid #30363d; aspect-ratio: 3 / 4; object-fit: cover;" alt="Absolute Zero" />
 <br><b>Absolute Zero</b>
 </td>
 <td align="center" width="25%" style="padding: 5px;">
-<a href="https://github.com/user-attachments/assets/a99c2881-fbbf-41f6-8585-502361ebfaad" target="_blank"><img src="https://github.com/user-attachments/assets/a99c2881-fbbf-41f6-8585-502361ebfaad" width="100%" style="border: 1px solid #30363d; aspect-ratio: 3 / 4; object-fit: cover;" alt="Cyborg Superman" /></a>
+<img src="https://github.com/user-attachments/assets/a99c2881-fbbf-41f6-8585-502361ebfaad" width="100%" style="border: 1px solid #30363d; aspect-ratio: 3 / 4; object-fit: cover;" alt="Cyborg Superman" />
 <br><b>Cyborg Superman</b>
 </td>
 </tr>
@@ -97,7 +97,7 @@ I still love bringing these custom figures to life and sharing the creation proc
 <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; background-color: transparent;">
 <tr style="border: none; background-color: transparent;">
 <td align="center" valign="middle" width="80px" style="padding-right: 10px; border: none;">
-<img src="https://github.com/user-attachments/assets/f178f7a5-67e2-4720-a135-67800a9c6074" width="64" height="64" alt="10K Cleaver Kills" style="border-radius: 8px;" />
+<img src="https://github.com/user-attachments/assets/7d9ae41a-9ddd-45b8-afc8-9ab2857231bc" width="64" height="64" alt="10K Cleaver Kills" style="border-radius: 8px;" />
 </td>
 <td align="left" valign="middle" style="border: none;">
 I rarely play video games these days, but when I do, I love finding unique challenges. For example, in Call of Duty, I was the first to achieve over <b>10,000 Cleaver Kills!</b>
@@ -106,7 +106,7 @@ I rarely play video games these days, but when I do, I love finding unique chall
 </table>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/421af84b-c74b-4666-9982-57c9abd5cd66" width="100%" style="border-radius: 10px; margin-top: 15px;" alt="Call of Duty 10K Cleaver Kills" />
+  <img src="[https://github.com/user-attachments/assets/421af84b-c74b-4666-9982-57c9abd5cd66](https://github.com/user-attachments/assets/d2db8aa7-aca0-49d1-b306-f30bbecf29ce)" width="100%" style="border-radius: 10px; margin-top: 15px;" alt="Call of Duty 10K Cleaver Kills" />
 </div>
 
 <br>
