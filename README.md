@@ -20,7 +20,7 @@
 
 I love creating tools that solve actual problems. Whether I'm writing a custom plugin, squashing a bug, or diving into a new framework, I'm all about building clean, reliable solutions that get the job done right.
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/WordPress-%23117EAB.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress" />
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
