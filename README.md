@@ -60,8 +60,6 @@ When I'm not pushing commits or troubleshooting code, I'm crafting works of art.
 
 I still love bringing these custom figures to life and sharing the creation process! I don't crank them out quite as fast as I used to now that my son is all grown up, but the creative spark is still going strong.
 
-<br>
-<br>
 <div align="center">
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%" style="margin-bottom: 15px;">
