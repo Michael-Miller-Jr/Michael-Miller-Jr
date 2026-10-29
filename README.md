@@ -6,7 +6,7 @@
   </picture>
 </p>
 
-# 👋 Hey Yooo! I'm Michael Miller aka <img width="32" height="32" alt="Supes" src="https://github.com/user-attachments/assets/b2f8fc96-858a-4a85-a76d-e637e1e8a2e4" /> TheLastSuperman
+# 👋 Hey Yooo! I'm Michael Miller aka TheLastSuperman <img width="32" height="32" alt="Supes" src="https://github.com/user-attachments/assets/b2f8fc96-858a-4a85-a76d-e637e1e8a2e4" />
 <br>
 
 ### 🚀 WordPress Developer | Support Specialist | Clever Creator!
