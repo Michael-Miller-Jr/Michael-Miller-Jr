@@ -69,20 +69,20 @@ I still love bringing these custom figures to life and sharing the creation proc
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
 <td align="center" width="25%" style="padding: 5px;">
-<img src="https://github.com/user-attachments/assets/ce2f8730-0768-4ca2-944c-bee46093f849" width="100%" style="border: 1px solid #30363d; aspect-ratio: 3 / 4; object-fit: cover;" alt="Cyborg Ultraman" />
+<img src="https://github.com/user-attachments/assets/ce2f8730-0768-4ca2-944c-bee46093f849" width="100%" style="border: 1px solid #30363d; aspect-ratio: 3 / 4; object-fit: cover;" alt="Cyborg Superman" />
+<br><b>Cyborg Superman</b>
+</td>
+<td align="center" width="25%" style="padding: 5px;">
+<img src="https://github.com/user-attachments/assets/98ed5268-fdcd-4837-bb94-9869031b4050" width="100%" style="border: 1px solid #30363d; aspect-ratio: 3 / 4; object-fit: cover;" alt="Cyborg Superman" />
+<br><b>Cyborg Superman</b>
+</td>
+<td align="center" width="25%" style="padding: 5px;">
+<img src="https://github.com/user-attachments/assets/50310f90-b0a1-464a-b2fe-3a8639e057e6" width="100%" style="border: 1px solid #30363d; aspect-ratio: 3 / 4; object-fit: cover;" alt="Cyborg Ultraman" />
 <br><b>Cyborg Ultraman</b>
 </td>
 <td align="center" width="25%" style="padding: 5px;">
-<img src="https://github.com/user-attachments/assets/52dfca2a-76ec-41ae-ad0f-88fa4a883908" width="100%" style="border: 1px solid #30363d; aspect-ratio: 3 / 4; object-fit: cover;" alt="Cyborg Superman" />
-<br><b>Cyborg Superman</b>
-</td>
-<td align="center" width="25%" style="padding: 5px;">
-<img src="https://github.com/user-attachments/assets/33b70a2f-85a0-48e4-bbdb-eb8b5a074630" width="100%" style="border: 1px solid #30363d; aspect-ratio: 3 / 4; object-fit: cover;" alt="Absolute Zero" />
-<br><b>Absolute Zero</b>
-</td>
-<td align="center" width="25%" style="padding: 5px;">
-<img src="https://github.com/user-attachments/assets/a99c2881-fbbf-41f6-8585-502361ebfaad" width="100%" style="border: 1px solid #30363d; aspect-ratio: 3 / 4; object-fit: cover;" alt="Cyborg Superman" />
-<br><b>Cyborg Superman</b>
+<img src="https://github.com/user-attachments/assets/d2df41ca-58c1-4907-8932-640b67c9097e" width="100%" style="border: 1px solid #30363d; aspect-ratio: 3 / 4; object-fit: cover;" alt="Majin Buu" />
+<br><b>Majin Buu</b>
 </td>
 </tr>
 </table>
@@ -106,7 +106,7 @@ I rarely play video games these days, but when I do, I love finding unique chall
 </table>
 
 <div align="center">
-  <img src="[https://github.com/user-attachments/assets/421af84b-c74b-4666-9982-57c9abd5cd66](https://github.com/user-attachments/assets/d2db8aa7-aca0-49d1-b306-f30bbecf29ce)" width="100%" style="border-radius: 10px; margin-top: 15px;" alt="Call of Duty 10K Cleaver Kills" />
+  <img src="" width="100%" style="border-radius: 10px; margin-top: 15px;" alt="Call of Duty 10K Cleaver Kills" />
 </div>
 
 <br>
