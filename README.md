@@ -61,7 +61,7 @@ After that, I jumped into the world of vBulletin and various forum softwares, wh
 <img src="https://github.com/user-attachments/assets/8a0eb26e-e333-445f-9bad-27803126afa6" width="189" height="174" style="border-radius: 8px;" alt="looking" />
 </td>
 <td align="left" valign="middle" style="border: none;">
-I'm also a massive fan of Dad Jokes. Honestly, I'm a sucker for the ones that are so clever and so terrible at the same time. 
+I'm also a massive fan of Dad Jokes. Honestly, I'm a sucker for the ones that are so clever and so terrible at the same time... 
 <br><br>
 <blockquote>
 <i>"A SQL query walks into a bar, walks up to two tables and asks... 'Can I join you?'"</i>
