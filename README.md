@@ -7,7 +7,7 @@
 </p>
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 15px; margin-bottom: 10px;">
-  <h1 style="margin: 0;">Hey Yoooooo! I'm Michael Miller, <span style="font-size: 0.6em; font-weight: normal;">aka TheLastSuperman ![Profile Views](https://komarev.com/ghpvc/?username=Michael-Miller-Jr&color=blue)</span></h1>
+  <h1 style="margin: 0;">Hey Yoooooo! I'm Michael Miller, <span style="font-size: 0.6em; font-weight: normal;">aka TheLastSuperman</span></h1>
 </div>
 
 ### 🚀 WordPress Developer | Support Specialist | Clever Creator!
@@ -149,7 +149,7 @@ However, these days I find myself working on cars, completing plumbing or electr
 
 <div align="center">
 
-### 📊 Let's Connect!
+### 📊 Let's Connect! ![Profile Views](https://komarev.com/ghpvc/?username=Michael-Miller-Jr&color=blue)
 
 <a href="https://github.com/Michael-Miller-Jr">
   <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github" alt="Follow on GitHub" />
