@@ -143,7 +143,7 @@ I rarely play video games these days, but when I do, I love finding unique chall
 When I find time to play, I'm a huge fan of RPGs like <i>Zelda Games</i>, <i>Final Fantasy Games</i> (both the originals and remakes), <i>Elden Ring</i>, and <i>Crimson Desert</i>. I also enjoy jumping into online shooters like <i>Call of Duty</i> and the <i>Battlefield</i> series from time-to-time with friends or my kids! 
 <br>
 <br>
-However, these days I find myself enjoying the art of coding and watching a project come alive far more than playing any video game. There's nothing quite like the thrill of building something from scratch!
+However, these days I find myself working on cars, completing plumbing or electrical work, remodeling the house every few years, and enjoying the art of coding and watching a project come alive far more than playing any video game. There's nothing quite like the thrill of fixing something or building it from scratch!
 
 ---
 
