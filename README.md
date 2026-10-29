@@ -149,7 +149,8 @@ However, these days I find myself working on cars, completing plumbing or electr
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Michael-Miller-Jr&color=blue) ### 📊 Let's Connect!
+![Profile Views](https://komarev.com/ghpvc/?username=Michael-Miller-Jr&color=blue)
+### 📊 Let's Connect!
 
 <a href="https://github.com/Michael-Miller-Jr">
   <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github" alt="Follow on GitHub" />
