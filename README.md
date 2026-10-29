@@ -37,12 +37,14 @@ I got my start as a tinkerer, writing cimpack macros while doing CAD work just f
 
 After that, I jumped into the world of vBulletin and various forum softwares, where I discovered the thrill of building online communities and crafting tools that kept conversations flowing. It wasn't just about the code; it was about making things work better for real people. I then started working with **WordPress** and have enjoyed seeing it progress over the years.
 
-<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; background-color: transparent;">
+<br>
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; background-color: transparent;">
 <tr style="border: none; background-color: transparent;">
-<td align="center" valign="middle" style="border: none; padding-right: 20px; width: 160px;">
+<td align="center" valign="middle" style="border: none; padding-right: 20px; width: 160px; white-space: nowrap;">
 <img src="https://github.com/user-attachments/assets/f52ebd3d-2a65-4bf0-b93d-cb49bc63415e" width="160" height="174" alt="looking" style="border-radius: 8px;" />
 </td>
-<td align="left" valign="middle" style="width:100%; border: none;">
+<td align="left" valign="middle" style="border: none;">
 I'm also a massive fan of Dad Jokes...
 <br><br>
 <blockquote>
