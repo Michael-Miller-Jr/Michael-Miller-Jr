@@ -61,9 +61,6 @@ When I'm not pushing commits or troubleshooting code, I'm crafting works of art.
 I still love bringing these custom figures to life and sharing the creation process! I don't crank them out quite as fast as I used to now that my son is all grown up, but the creative spark is still going strong.
 
 <br>
-
-<details>
-<summary><b>🖼️ Click here to open the Custom Action Figure Gallery! 🖼️</b></summary>
 <br>
 <div align="center">
 
@@ -102,7 +99,6 @@ I still love bringing these custom figures to life and sharing the creation proc
 </table>
 
 </div>
-</details>
 
 ---
 
