@@ -66,6 +66,7 @@ I'm also a massive fan of Dad Jokes. Honestly, I'm a sucker for the ones that ar
 <blockquote>
 <i>"A SQL query walks into a bar, walks up to two tables and asks... 'Can I join you?'"</i>
 </blockquote>
+<br><br>
 If you've ever worked with a database, you know exactly why that was both the best and worst joke you heard today.
 </td>
 </tr>
