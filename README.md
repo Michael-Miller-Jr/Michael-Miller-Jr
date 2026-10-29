@@ -26,6 +26,7 @@ I love creating tools that solve actual problems. Whether I'm writing a custom p
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Core%20Web%20Vitals-Optimized-0E8A16?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Core Web Vitals" />
 </div>
 
 ---
