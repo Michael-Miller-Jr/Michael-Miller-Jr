@@ -40,7 +40,7 @@ After that, I jumped into the world of vBulletin and various forum softwares, wh
 <br>
 
 <div>
-  <img src="https://github.com/user-attachments/assets/8a0eb26e-e333-445f-9bad-27803126afa6" width="189" height="174" align="left" style="margin-right: 25px; margin-bottom: 10px; border-radius: 8px;" alt="looking" />
+  <img src="https://github.com/user-attachments/assets/8a0eb26e-e333-445f-9bad-27803126afa6" width="189" height="174" align="left" style="margin-right: 25px; margin-bottom: 10px; border-radius: 8px; background-color: transparent;" alt="looking" />
 
   <div>
     I'm also a massive fan of Dad Jokes. Honestly, I'm a sucker for the ones that are so clever and so terrible at the same time. 
