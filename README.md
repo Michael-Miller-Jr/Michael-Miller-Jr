@@ -7,7 +7,7 @@
 </p>
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 15px; margin-bottom: 10px;">
-  <h1 style="margin: 0;">Hey Yoooooo! I'm Michael Miller <br> <span style="font-size: 0.6em; font-weight: normal;">(aka TheLastSuperman)</span></h1> <img src="https://github.com/user-attachments/assets/f17b0ccd-8c1c-4100-86de-090be10a4fe9" width="48" height="48" alt="Supes" /></h1>
+  <h1 style="margin: 0;">Hey Yoooooo! I'm Michael Miller <br> <span style="font-size: 0.6em; font-weight: normal;">(aka TheLastSuperman) <img src="https://github.com/user-attachments/assets/f17b0ccd-8c1c-4100-86de-090be10a4fe9" width="48" height="48" alt="Supes" /></span></h1>
 </div>
 
 ### 🚀 WordPress Developer | Support Specialist | Clever Creator!
