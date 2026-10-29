@@ -118,6 +118,10 @@ I rarely play video games these days, but when I do, I love finding unique chall
 </div>
 
 <br>
+<a href="https://www.youtube.com/watch?v=86FIePGqEFM" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-Watch%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video" />
+</a>
+<br>
 
 However, these days I find myself enjoying the art of coding and watching a project come alive far more than playing any video game. There's nothing quite like the thrill of building something from scratch.
 
