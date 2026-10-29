@@ -40,9 +40,9 @@ After that, I jumped into the world of vBulletin and various forum softwares, wh
 <br>
 
 <div>
-  <img src="https://github.com/user-attachments/assets/f52ebd3d-2a65-4bf0-b93d-cb49bc63415e" width="160" height="174" align="left" style="margin-right: 20px; margin-bottom: 10px; border-radius: 8px;" alt="looking" />
+  <img src="https://github.com/user-attachments/assets/f52ebd3d-2a65-4bf0-b93d-cb49bc63415e" width="160" height="174" align="left" style="padding-right: 20px; margin-bottom: 10px; border-radius: 8px;" alt="looking" />
 
-  <div style="padding-left: 20px;">
+  <div>
     I'm also a massive fan of Dad Jokes. Honestly, I'm a sucker for the ones that are so clever and so terrible at the same time. 
     <br><br>
     If you've ever worked with a database, you know exactly why this is both the best and worst joke you'll hear today:
