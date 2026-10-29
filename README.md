@@ -7,7 +7,7 @@
 </p>
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 15px; margin-bottom: 10px;">
-  <h1 style="margin: 0;">Hey Yoooooo! I'm Michael Miller, <span style="font-size: 0.6em; font-weight: normal;">aka TheLastSuperman</span></h1>
+  <h1 style="margin: 0;">Hey Yoooooo! I'm Michael Miller, <span style="font-size: 0.6em; font-weight: normal;">aka TheLastSuperman <a href="https://www.linkedin.com/in/michael-r-miller-jr/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a></span></h1>
 </div>
 
 ### 🚀 WordPress Developer | Support Specialist | Clever Creator!
@@ -21,7 +21,6 @@
 I love creating tools that solve actual problems. Whether I'm writing a custom plugin, squashing a bug, or diving into a new framework, I'm all about building clean, reliable solutions that get the job done right.
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/michael-r-miller-jr/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/WordPress-%23117EAB.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress" />
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
