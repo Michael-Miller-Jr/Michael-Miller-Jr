@@ -151,6 +151,8 @@ However, these days I find myself working on cars, completing plumbing or electr
 
 ### 📊 Let's Connect!
 
+![Visitors](https://github-visitor-counter-tau.vercel.app/api?username=Michael-Miller-Jr)
+
 <a href="https://github.com/Michael-Miller-Jr">
   <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github" alt="Follow on GitHub" />
 </a>
