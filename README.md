@@ -31,7 +31,7 @@ I love creating tools that solve actual problems. Whether I'm writing a custom p
   <img src="https://img.shields.io/badge/Core%20Web%20Vitals-Optimized-0E8A16?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Core Web Vitals" />
   <img src="https://img.shields.io/badge/Technical%20Support-Specialist-%234CAF50?style=for-the-badge&logo=helpscout&logoColor=white" alt="Technical Support" />
   <img src="https://img.shields.io/badge/Client%20Training-Support%20Training-%23FF9800?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="Client Training" />
-  <img src="https://img.shields.io/badge/Project%20Management-Agile-%239C27B0?style=for-the-badge&logo=jira&logoColor=white" alt="Project Management" />
+  <img src="https://img.shields.io/badge/Web%20Project%20Management-Management-%239C27B0?style=for-the-badge&logo=jira&logoColor=white" alt="Web Project Management" />
   <img src="https://img.shields.io/badge/Workflow%20Optimization-Process-%23007ACC?style=for-the-badge&logo=githubactions&logoColor=white" alt="Workflow Optimization" />
   <img src="https://img.shields.io/badge/Problem%20Solving-Critical%20Thinker-%23E91E63?style=for-the-badge&logo=superuser&logoColor=white" alt="Problem Solving" />
   <img src="https://img.shields.io/badge/Quality%20Control-Implementation-%23607D8B?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Quality Control" />
