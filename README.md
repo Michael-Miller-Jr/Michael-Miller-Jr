@@ -89,8 +89,8 @@ I still love bringing these custom figures to life and sharing the creation proc
 <br><b>Cyborg Ultraman</b>
 </td>
 <td align="center" width="25%" style="padding: 5px;">
-<img src="https://github.com/user-attachments/assets/d2df41ca-58c1-4907-8932-640b67c9097e" width="100%" style="border: 1px solid #30363d; aspect-ratio: 3 / 4; object-fit: cover;" alt="Majin Buu" />
-<br><b>Majin Buu</b>
+<img src="https://github.com/user-attachments/assets/d2df41ca-58c1-4907-8932-640b67c9097e" width="100%" style="border: 1px solid #30363d; aspect-ratio: 3 / 4; object-fit: cover;" alt="Majin (Evil) Buu" />
+<br><b>Majin (Evil) Buu</b>
 </td>
 </tr>
 </table>
