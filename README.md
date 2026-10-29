@@ -34,7 +34,7 @@ I got my start as a tinkerer, writing cimpack macros while doing CAD work just f
 
 After that, I jumped into the world of vBulletin and various forum softwares, where I discovered the thrill of building online communities and crafting tools that kept conversations flowing. It wasn't just about the code; it was about making things work better for real people. I then started working with **WordPress** and have enjoyed seeing it progress over the years!
 
-I'm also a massive fan of Dad Jokes!
+I'm also a massive fan of Dad Jokes...
  > *"A SQL query walks into a bar, walks up to two tables and asks... 'Can I join you?'"*
 
 ---
@@ -126,7 +126,7 @@ I rarely play video games these days, but when I do, I love finding unique chall
 <br>
 <br>
 When I do have time to play, I'm a huge fan of RPGs like <i>Zelda Games</i>, <i>Final Fantasy Games</i> (both the originals and remakes), <i>Elden Ring</i>, and <i>Crimson Desert</i>. I also enjoy jumping into online shooters like <i>Call of Duty</i> and the <i>Battlefield</i> series from time-to-time with friends or my kids! 
-
+<br>
 However, these days I find myself enjoying the art of coding and watching a project come alive far more than playing any video game. There's nothing quite like the thrill of building something from scratch.
 
 ---
