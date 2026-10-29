@@ -42,7 +42,7 @@ After that, I jumped into the world of vBulletin and various forum softwares, wh
 <td align="center" valign="middle" style="border: none; padding-right: 20px; width: 160px;">
 <img src="https://github.com/user-attachments/assets/f52ebd3d-2a65-4bf0-b93d-cb49bc63415e" width="160" height="174" alt="looking" style="border-radius: 8px;" />
 </td>
-<td align="left" valign="middle" style="border: none;">
+<td align="left" valign="middle" style="width:100%; border: none;">
 I'm also a massive fan of Dad Jokes...
 <br><br>
 <blockquote>
