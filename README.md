@@ -57,8 +57,8 @@ After that, I jumped into the world of vBulletin and various forum softwares, wh
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; background-color: transparent;">
 <tr style="border: none; background-color: transparent;">
-<td align="center" valign="middle" width="200px" style="padding-right: 20px; border: none;">
-<img src="https://github.com/user-attachments/assets/8a0eb26e-e333-445f-9bad-27803126afa6" width="189" height="174" style="border-radius: 8px;" alt="looking" />
+<td align="center" valign="middle" width="251px" style="padding-right: 20px; border: none;">
+<img src="https://github.com/user-attachments/assets/cdd47ff0-f7fe-4162-bf7f-642d4ea007f2" width="231" height="175" style="border-radius: 8px;" alt="looking" />
 </td>
 <td align="left" valign="middle" style="border: none;">
 I'm also a massive fan of Dad Jokes. Honestly, I'm a sucker for the ones that are so clever and so terrible at the same time... 
