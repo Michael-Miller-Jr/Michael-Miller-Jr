@@ -49,7 +49,7 @@ I love creating tools that solve actual problems. Whether I'm writing a custom p
 
 ### 🦸‍♂️ The Origin Story
 
-I got my start as a tinkerer, writing cimpack macros while doing CAD work just for the sheer joy of automating everyday tasks. Back then, every script was a new puzzle to solve – and I loved every minute of it! 
+I got my start as a tinkerer, writing CimPACK macros while doing CAD work just for the sheer joy of automating everyday tasks. Back then, every script was a new puzzle to solve – and I loved every minute of it! One of my favorite early wins was writing a macro that took a complex job of splitting a file into 11–13 counterpart files, automating the required line types for proper laser burns. What normally took a CAD Programmer 35-45 minutes was suddenly a less than 15-second task after clicking a button.
 
 After that, I jumped into the world of vBulletin and various forum softwares, where I discovered the thrill of building online communities and crafting tools that kept conversations flowing. It wasn't just about the code; it was about making things work better for real people. I then started working with **WordPress** and have enjoyed seeing it progress over the years.
 
