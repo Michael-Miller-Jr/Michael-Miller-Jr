@@ -170,10 +170,10 @@ However, these days I find myself working on cars, completing plumbing or electr
 <td align="center" valign="middle" width="200px" style="padding-right: 20px; border: none;">
 <img src="https://github.com/user-attachments/assets/4cbc7068-6e71-4c97-ad37-592a7ec99144" width="200" alt="Rick and Morty" />
 </td>
-<td align="left" valign="middle" style="border: none;">
+<td align="left" valign="middle" style="border: none; padding-right: 20px;">
 <img src="https://komarev.com/ghpvc/?username=Michael-Miller-Jr&color=blue" alt="Profile Views" />
 <br><br>
-<h3 style="margin: 0;">📊 Let's Connect!</h3>
+<h3 style="margin: 0;">Let's Connect!</h3>
 <br>
 <a href="https://github.com/Michael-Miller-Jr">
   <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github" alt="Follow on GitHub" />
@@ -182,7 +182,12 @@ However, these days I find myself working on cars, completing plumbing or electr
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" />
 </a>
 <br><br>
-<i>"I Git It" - Let's build something awesome together!</i>
+<i>"I Git It" - Let's build something awesome together!</i> 🤝
+</td>
+<td align="left" valign="middle" style="border: none; width: 100%; padding-left: 20px;">
+<h4 style="margin: 0;">Looking for a Developer?</h4>
+<br>
+Whether you need a custom WordPress plugin, a performance audit, or just want to talk shop about code, I'm always open to a good conversation. Let's make the web a little bit better, one project at a time.
 </td>
 </tr>
 </table>
