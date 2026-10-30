@@ -171,7 +171,7 @@ However, these days I find myself working on cars, completing plumbing or electr
 <img src="https://github.com/user-attachments/assets/411c28c5-6daa-455d-a864-1240572c3f53" width="189" alt="Rick and Morty" />
 </td>
 <td align="left" valign="middle" style="border: none;">
-![Profile Views](https://komarev.com/ghpvc/?username=Michael-Miller-Jr&color=blue)
+<img src="https://komarev.com/ghpvc/?username=Michael-Miller-Jr&color=blue" alt="Profile Views" />
 <br><br>
 <h3 style="margin: 0;">📊 Let's Connect!</h3>
 <br>
