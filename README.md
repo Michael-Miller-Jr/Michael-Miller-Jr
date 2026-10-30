@@ -183,7 +183,7 @@ However, these days I find myself working on cars, completing plumbing or electr
 </a>
 </td>
 <td align="left" valign="middle" style="border: none; width: 100%; padding-left: 20px;">
-<h4 style="margin: 0;">Looking for a Developer?</h4>
+<span style="margin: 0;">Looking for a Developer?</span>
 <br>
 Whether you need a custom WordPress plugin, a performance audit, or just want to talk shop about code, I'm always open to a good conversation. Let's make the web a little bit better, one project at a time.
 <br><br>
