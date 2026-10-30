@@ -12,7 +12,7 @@
 
 ### 🚀 WordPress Developer | Support Specialist | Clever Creator!
 
-> *"I love all things Superman, plain and simple! What else is there to say about me? At night time though – 'I'm Batman' LOL!"* 🦇
+> *"I love all things Superman, plain and simple! What else is there to say about me? At night time though – 'I'm Batman' LOL!"*
 
 ---
 
