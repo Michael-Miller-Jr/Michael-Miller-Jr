@@ -170,7 +170,7 @@ However, these days I find myself working on cars, completing plumbing or electr
 <td align="center" valign="middle" width="200px" style="padding-right: 20px; border: none;">
 <img src="https://github.com/user-attachments/assets/4cbc7068-6e71-4c97-ad37-592a7ec99144" width="200" alt="Rick and Morty" />
 </td>
-<td align="left" valign="middle" style="border: none; padding-right: 20px;">
+<td align="left" valign="middle" style="border: none; margin-top: 2px; padding-right: 20px;">
 <img src="https://komarev.com/ghpvc/?username=Michael-Miller-Jr&color=blue" alt="Profile Views" />
 <br><br>
 <h3 style="margin: 0;">Let's Connect!</h3>
