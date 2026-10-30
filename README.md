@@ -181,13 +181,13 @@ However, these days I find myself working on cars, completing plumbing or electr
 <a href="https://www.linkedin.com/in/michael-r-miller-jr/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" />
 </a>
-<br><br>
-<i>"I Git It" - Let's build something awesome together!</i> 🤝
 </td>
 <td align="left" valign="middle" style="border: none; width: 100%; padding-left: 20px;">
 <h4 style="margin: 0;">Looking for a Developer?</h4>
 <br>
 Whether you need a custom WordPress plugin, a performance audit, or just want to talk shop about code, I'm always open to a good conversation. Let's make the web a little bit better, one project at a time.
+<br><br>
+<i>"I Git It" - Let's build something awesome together!</i>
 </td>
 </tr>
 </table>
