@@ -163,18 +163,28 @@ However, these days I find myself working on cars, completing plumbing or electr
 
 ---
 
-<div align="center">
+<br>
 
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; background-color: transparent;">
+<tr style="border: none; background-color: transparent;">
+<td align="center" valign="middle" width="200px" style="padding-right: 20px; border: none;">
+<img src="https://github.com/user-attachments/assets/411c28c5-6daa-455d-a864-1240572c3f53" width="189" alt="Rick and Morty" />
+</td>
+<td align="left" valign="middle" style="border: none;">
 ![Profile Views](https://komarev.com/ghpvc/?username=Michael-Miller-Jr&color=blue)
-### 📊 Let's Connect!
-
+<br><br>
+<h3 style="margin: 0;">📊 Let's Connect!</h3>
+<br>
 <a href="https://github.com/Michael-Miller-Jr">
   <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github" alt="Follow on GitHub" />
 </a>
 <a href="https://www.linkedin.com/in/michael-r-miller-jr/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" />
 </a>
+<br><br>
+<i>"I Git It" - Let's build something awesome together!</i> 🤝
+</td>
+</tr>
+</table>
 
-*"I Git It" - Let's build something awesome together!* 🤝
-
-</div>
+<br clear="all">
