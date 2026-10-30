@@ -168,7 +168,7 @@ However, these days I find myself working on cars, completing plumbing or electr
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; background-color: transparent;">
 <tr style="border: none; background-color: transparent;">
 <td align="center" valign="middle" width="200px" style="padding-right: 20px; border: none;">
-<img src="https://github.com/user-attachments/assets/411c28c5-6daa-455d-a864-1240572c3f53" width="189" alt="Rick and Morty" />
+<img src="https://github.com/user-attachments/assets/4cbc7068-6e71-4c97-ad37-592a7ec99144" width="189" alt="Rick and Morty" />
 </td>
 <td align="left" valign="middle" style="border: none;">
 <img src="https://komarev.com/ghpvc/?username=Michael-Miller-Jr&color=blue" alt="Profile Views" />
