@@ -133,7 +133,7 @@ I still love bringing these custom figures to life and sharing the creation proc
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
 <td align="center" width="25%" style="padding: 5px;">
-<img src="https://github.com/user-attachments/assets/9e8b8419-1625-436b-82a8-482aaecb47ef" width="100%" style="border: 1px solid #30363d; aspect-ratio: 3 / 4; object-fit: cover;" alt="Strong Guy" />
+<img src="https://github.com/user-attachments/assets/3c5b0337-c5b6-4136-b5f3-c31330b902f2" width="100%" style="border: 1px solid #30363d; aspect-ratio: 3 / 4; object-fit: cover;" alt="Strong Guy" />
 <br><b>Strong Guy</b>
 </td>
 <td align="center" width="25%" style="padding: 5px;">
