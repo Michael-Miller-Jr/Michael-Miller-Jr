@@ -130,6 +130,19 @@ I still love bringing these custom figures to life and sharing the creation proc
 </tr>
 </table>
 
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="margin-bottom: 15px;">
+<tr>
+<td align="center" width="50%" style="padding: 5px;">
+<img src="https://github.com/user-attachments/assets/628dc1e6-8c56-4640-a1f9-6d281c4a7568" width="100%" style="border: 1px solid #30363d; aspect-ratio: 16 / 9; object-fit: cover;" alt="Custom Cyborgs" />
+<br><b>Custom Cyborgs Photo</b>
+</td>
+<td align="center" width="50%" style="padding: 5px;">
+<img src="https://github.com/user-attachments/assets/8b4a99db-a97e-4034-bfc4-5ac6ba495134" width="100%" style="border: 1px solid #30363d; aspect-ratio: 16 / 9; object-fit: cover;" alt="Doomsday" />
+<br><b>Doomsday</b>
+</td>
+</tr>
+</table>
+
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
 <td align="center" width="25%" style="padding: 5px;">
