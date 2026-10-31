@@ -103,7 +103,7 @@ I still love bringing these custom figures to life and sharing the creation proc
 <br><b>Superman Group Photo</b>
 </td>
 <td align="center" width="50%" style="padding: 5px;">
-<img src="https://github.com/user-attachments/assets/04d07cf5-71a4-4e09-b975-3a233feee632" width="100%" style="border: 1px solid #30363d; aspect-ratio: 16 / 9; object-fit: cover;" alt="Doomsday" />
+<img src="https://github.com/user-attachments/assets/c2c31d2b-c092-4dc3-b033-4f5f4563f835" width="100%" style="border: 1px solid #30363d; aspect-ratio: 16 / 9; object-fit: cover;" alt="Doomsday" />
 <br><b>Doomsday</b>
 </td>
 </tr>
@@ -126,6 +126,27 @@ I still love bringing these custom figures to life and sharing the creation proc
 <td align="center" width="25%" style="padding: 5px;">
 <img src="https://github.com/user-attachments/assets/d2df41ca-58c1-4907-8932-640b67c9097e" width="100%" style="border: 1px solid #30363d; aspect-ratio: 3 / 4; object-fit: cover;" alt="Majin (Evil) Buu" />
 <br><b>Majin (Evil) Buu</b>
+</td>
+</tr>
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" width="25%" style="padding: 5px;">
+<img src="https://github.com/user-attachments/assets/9e8b8419-1625-436b-82a8-482aaecb47ef" width="100%" style="border: 1px solid #30363d; aspect-ratio: 3 / 4; object-fit: cover;" alt="Strong Guy" />
+<br><b>Strong Guy</b>
+</td>
+<td align="center" width="25%" style="padding: 5px;">
+<img src="https://github.com/user-attachments/assets/7cc9c5bd-3558-4215-b91b-86fa9b6973ad" width="100%" style="border: 1px solid #30363d; aspect-ratio: 3 / 4; object-fit: cover;" alt="Phoenix Force Darkseid" />
+<br><b>Phoenix Force Darkseid</b>
+</td>
+<td align="center" width="25%" style="padding: 5px;">
+<img src="https://github.com/user-attachments/assets/8b53ad62-8fa2-4ea4-98c9-e43dc501ff66" width="100%" style="border: 1px solid #30363d; aspect-ratio: 3 / 4; object-fit: cover;" alt="Red Hulk" />
+<br><b>Red Hulk</b>
+</td>
+<td align="center" width="25%" style="padding: 5px;">
+<img src="https://github.com/user-attachments/assets/42a3a5ad-6605-42c4-be66-de2bf373db17" width="100%" style="border: 1px solid #30363d; aspect-ratio: 3 / 4; object-fit: cover;" alt="Zero" />
+<br><b>Zero</b>
 </td>
 </tr>
 </table>
