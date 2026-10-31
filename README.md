@@ -152,7 +152,7 @@ I rarely play video games these days, but when I do, I love finding unique chall
 </div>
 
 <div align="center">
-  <img src="https://imgpile.com/p/4kS5Lvz" width="100%" style="border-radius: 10px; margin-top: 15px;" alt="Call of Duty 10K Cleaver Kills" />
+  <img src="https://yourimageshare.com/ib/MjrUUkvV8C.gif" width="100%" style="border-radius: 10px; margin-top: 15px;" alt="Call of Duty 10K Cleaver Kills" />
 </div>
 
 <a href="https://www.youtube.com/watch?v=86FIePGqEFM" target="_blank">
