@@ -151,6 +151,10 @@ I rarely play video games these days, but when I do, I love finding unique chall
   <img src="https://github.com/user-attachments/assets/ed5408d7-1db9-44d5-91e4-124f75b2007d" width="100%" style="border-radius: 10px; margin-top: 15px;" alt="Call of Duty 10K Cleaver Kills" />
 </div>
 
+<div align="center">
+  <img src="https://imgpile.com/p/4kS5Lvz" width="100%" style="border-radius: 10px; margin-top: 15px;" alt="Call of Duty 10K Cleaver Kills" />
+</div>
+
 <a href="https://www.youtube.com/watch?v=86FIePGqEFM" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-Watch%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video" />
 </a>
