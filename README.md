@@ -228,3 +228,5 @@ Whether you need a custom WordPress plugin, a performance audit, or just want to
 </table>
 
 <br clear="all">
+
+![@Michael-Miller-Jr's GitHub Stats](https://devquest-mu.vercel.app/card/Michael-Miller-Jr.svg?theme=cyberpunk&accent=002147&stats=repos%2Cfollowers%2Ccontributions%2Cstreak&anim=scanline)
