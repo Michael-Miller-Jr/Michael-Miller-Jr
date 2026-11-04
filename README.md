@@ -118,8 +118,8 @@ I still love bringing these custom figures to life and sharing the creation proc
 <br><b>Cyborg Superman</b>
 </td>
 <td align="center" width="25%" style="padding: 5px;">
-<img src="https://github.com/user-attachments/assets/98ed5268-fdcd-4837-bb94-9869031b4050" width="100%" style="border: 1px solid #30363d; aspect-ratio: 3 / 4; object-fit: cover;" alt="Cyborg Superman" />
-<br><b>Cyborg Superman</b>
+<img src="https://github.com/user-attachments/assets/df43066d-af9f-45b9-b0af-7aa5bfe85581" width="100%" style="border: 1px solid #30363d; aspect-ratio: 3 / 4; object-fit: cover;" alt="Future Superman" />
+<br><b>Future Superman</b>
 </td>
 <td align="center" width="25%" style="padding: 5px;">
 <img src="https://github.com/user-attachments/assets/50310f90-b0a1-464a-b2fe-3a8639e057e6" width="100%" style="border: 1px solid #30363d; aspect-ratio: 3 / 4; object-fit: cover;" alt="Cyborg Ultraman" />
