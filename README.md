@@ -12,6 +12,8 @@
 
 ### 🚀 WordPress Developer | Support Specialist | Clever Creator!
 
+> *"Welcome! I know most GitHub profiles are just a name and some pinned repos, but I figured I'd actually build something here."*
+>
 > *"I love all things Superman, plain and simple! What else is there to say about me? At night time though – 'I'm Batman' LOL!"*
 
 ---
