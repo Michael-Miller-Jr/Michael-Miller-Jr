@@ -20,7 +20,7 @@
 
 ### 🧰 My Toolbox
 
-I love creating tools that solve actual problems. Whether I'm writing a custom plugin, squashing a bug, or diving into a new framework, I'm all about building clean, reliable solutions that get the job done right.
+I love creating tools that solve actual problems. I'm usually writing a custom plugin, squashing a bug, or diving into a new framework, and I'm all about building clean, reliable solutions that get the job done right.
 
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
@@ -231,7 +231,7 @@ However, these days I find myself working on cars, completing plumbing or electr
 <span style="margin: 0;"><b>Looking for a Developer?</b></span>
 <br>
 <br>
-Whether you need a custom WordPress plugin, a performance audit, or just want to talk shop about code, I'm always open to a good conversation. Let's make the web a little bit better, one project at a time.
+If you need a custom WordPress plugin, a performance audit, or just want to talk shop about code, I'm always open to a good conversation. Let's make the web a little bit better, one project at a time.
 <br><br>
 <i>"I Git It" - Let's build something awesome together!</i>
 </td>
