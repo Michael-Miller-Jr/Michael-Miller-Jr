@@ -212,9 +212,6 @@ However, these days I find myself working on cars, completing plumbing or electr
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; background-color: transparent;">
 <tr style="border: none; background-color: transparent;">
-<td align="center" valign="middle" width="200px" style="padding-right: 20px; border: none;">
-<img src="https://github.com/user-attachments/assets/4cbc7068-6e71-4c97-ad37-592a7ec99144" width="200" alt="Rick and Morty" />
-</td>
 <td align="left" valign="middle" style="border: none; margin-top: 2px; padding-right: 20px;">
 <img src="https://komarev.com/ghpvc/?username=Michael-Miller-Jr&color=blue" alt="Profile Views" />
 <br><br>
@@ -226,6 +223,9 @@ However, these days I find myself working on cars, completing plumbing or electr
 <a href="https://www.linkedin.com/in/michael-r-miller-jr/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" />
 </a>
+</td>
+<td align="center" valign="middle" width="200px" style="padding-right: 20px; border: none;">
+<img src="https://github.com/user-attachments/assets/d01cad6d-80a1-4c53-b8ad-df3ff0f2d81d" width="200" alt="Rick and Morty" />
 </td>
 <td align="left" valign="middle" style="border: none; width: 100%; padding-left: 20px;">
 <span style="margin: 0;"><b>Looking for a Developer?</b></span>
