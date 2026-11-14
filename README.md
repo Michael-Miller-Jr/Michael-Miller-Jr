@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/ad00a542-5e18-4b89-9931-be473dcf804e">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/ad00a542-5e18-4b89-9931-be473dcf804e">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/bf5ac3f1-6a65-4232-ad28-e13f67d5a64f">
     <img alt="Michael Miller - TheLastSuperman" src="https://github.com/user-attachments/assets/ad00a542-5e18-4b89-9931-be473dcf804e" width="100%">
   </picture>
 </p>
